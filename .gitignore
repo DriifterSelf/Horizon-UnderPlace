@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and log files
+*.tmp
+*.log
+temp_*
+*.dds
+
+# Local editor settings
+.vscode/
+.idea/
+*.swp
